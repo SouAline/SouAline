@@ -12,7 +12,8 @@ I'm from Brazil more specific in Rio Grande Do Sul 🗺️
 💻 I start in tecnology in march of 2020.  
 👯 I'm looking to opportunities to develop as a developer.  
 🔭 I'm currently working on Front-end developer | Back-end developer | UX UI Desing as an intern.   
-👚 I love custumize clothes in my free time
+👚 I love custumize and create clothes.   
+📖 I love read books about true histories and health.
 
 ### I have basic knowledge in:
 - JavaScript 
@@ -25,8 +26,7 @@ I'm from Brazil more specific in Rio Grande Do Sul 🗺️
 
 - Java 
    - SpringBoot
-
-
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soualine&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
