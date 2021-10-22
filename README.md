@@ -10,10 +10,10 @@ I'm from Brazil more specific in Rio Grande Do Sul 🗺️
 # About me
 
 💻 I start in tecnology in march of 2020.  
-👯 I'm looking to opportunities to develop as a developer.  
+👯 I'm looking for opportunities to develop as a developer.  
 🔭 I'm currently working on Front-end developer | Back-end developer | UX UI Desing as an intern.   
 👚 I love custumize and create clothes.   
-📖 I love read books about true histories and health.
+📖 I love to read books about true histories and health.
 
 ### I have basic knowledge in:
 - JavaScript 
