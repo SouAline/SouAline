@@ -9,9 +9,8 @@ I'm from Brazil more specific in Rio Grande Do Sul 🗺️
 
 # About me
 
-💻 I start in tecnology in march of 2020.  
-👯 I'm looking for opportunities to develop as a developer.  
-🔭 I'm currently working on Front-end developer | Back-end developer | UX UI Desing as an intern.   
+💻 I started in tecnology in march of 2020.  
+🔭 I am currently a frontend developer at HP Inc.  
 👚 I love custumize and create clothes.   
 📖 I love to read books about true histories and health.
 
