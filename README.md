@@ -14,13 +14,13 @@ I'm from Brazil more specific in Rio Grande Do Sul 🗺️
 👚 I love custumize and create clothes.   
 📖 I love to read books about true histories and health.
 
-### I have good knowledge in:   
+## I have good knowledge in:   
 - Figma  
 - Agile Software Development
    - Lean 
    - Kanban   
    - Scrum    
-# Basic knowledge in:
+### Basic knowledge in:
 - JavaScript   
  - React   
 - HTML | CSS
