@@ -22,7 +22,7 @@ I'm from Brazil more specific in Rio Grande Do Sul 🗺️
    - Scrum    
 ### Basic knowledge in:
 - JavaScript   
- - React   
+  - React   
 - HTML | CSS
 - Java 
    - SpringBoot
