@@ -2,7 +2,7 @@
 # Welcome to my GitHub profile! 😃
 ### Student of  Systems Analysis and Development at <a href="https://www.infnet.edu.br/infnet" target="_blank">INFNET</a> Institute 🤓
 
-I'm Front-end Developer in construction 👷‍♀️  
+I'm ux/ui designer at DBServer company  
 I'm from Brazil more specific in Rio Grande Do Sul 🗺️  
 
 
